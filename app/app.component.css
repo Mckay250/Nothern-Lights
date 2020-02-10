@@ -1,0 +1,22 @@
+.bod{
+    display: flex;
+    width:85%;
+    margin: auto;
+    margin-top: 4rem;
+}
+.grow{
+    flex-grow: 1;
+}
+.radius{
+    border-radius: 4px;
+}
+.input{
+    border-radius: 4px;
+    border: solid 0.5px rgb(222, 223, 222);
+    width: 90%;
+    height: 2.4rem;
+}
+.submit{
+    height: 2.6rem;
+    width: 5rem;
+}
